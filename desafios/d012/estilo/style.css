@@ -71,11 +71,11 @@ section#img02{
     background: url('../imagens/background002.jpg') fixed;
     background-size: cover;
 }
-/* @media only screen and (max-device-width: 1366px) {
+@media only screen and (max-device-width: 1366px) {
     .imagem {
       background-attachment: scroll;
     }
-  } */
+  }
 footer{
     background-color: #000;
     color: #fff;
